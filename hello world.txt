@@ -4,7 +4,18 @@ using namespace std;
 
 main{
 
-cout<<"hello world";
+int c;
+cout<<"chose languaje 1-english 2-japanese";
+cin>>c;
+if (c=1){
+cout<<"world";
+}
+  if (c=2){
+      cout<<"za warudo";
+  }
+    else{
+        cout<<"puto";
+    }
 PAUSE(2000);
 return 0;
 
