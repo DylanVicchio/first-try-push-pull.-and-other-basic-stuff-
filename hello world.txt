@@ -9,6 +9,7 @@ cout<<"chose languaje 1-english 2-japanese";
 cin>>c;
 if (c=1){
 cout<<"world";
+// putoooooooooos
 }
   if (c=2){
       cout<<"za warudo";
